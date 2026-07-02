@@ -1,0 +1,4 @@
+[Section 101 - Speeding Violation]: Vehicles exceeding the posted speed limit signs shall be penalised. The fine calculation is structured as a variable penalty of ₹100 per every 1 km/h traveled over the official posted sign speed limit.
+[Section 102 - Indicator Signal Neglect]: Turning left or right without utilizing the appropriate vehicle side blinker/turn signal indicator constitutes a major safety hazard. It carries a flat penalty rate of ₹500 per incident.
+[Section 103 - Illegal Parking]: Vehicles found stationary or parked inside a clearly demarcated 'No Parking Zone' are subject to a flat towing and penalty fee of ₹1,500.
+[Section 104 - Silent Zone Honking]: Sounding a horn inside an explicitly marked 'No Honking Zone' (such as areas directly adjacent to hospitals, courts, or schools) is strictly prohibited. It carries a flat environmental fine of ₹1,000.
